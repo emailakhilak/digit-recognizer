@@ -3,3 +3,6 @@ scikit-learn
 numpy
 pillow
 joblib
+pandas
+tensorflow
+gunicorn
