@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+venv311/
+
+# Trained model (too large for GitHub)
+model.pkl
+model.keras
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# MNIST cache
+~/scikit_learn_data/
